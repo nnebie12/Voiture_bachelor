@@ -13,15 +13,20 @@ body{
 *{
     box-sizing: border-box;
 }
-h1,h2,h3,p,figure,ol,ul,blockquote,address{
+h1,h2,p,figure,ol,ul,blockquote{
     margin: 0;
     padding: 0;
     list-style: none;
 }
-button, a{
-    text-decoration: none;
-    background-color: transparent;
+button{
+    background-color: none;
+    padding: 0;
     border: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #222;
 }
 
 img{

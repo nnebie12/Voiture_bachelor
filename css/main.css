@@ -1,0 +1,67 @@
+@import url(./reset.css);
+
+/*theme*/
+:root{
+    --bgcolor_all : #2d3436;
+    --color-text-header: #fff;
+}
+
+header{
+    line-height: 6.0rem;
+    text-align: center;
+    color: var(--color-text-header);
+    background-color: var(--bgcolor_all);
+    margin-bottom: 5rem;
+    padding: 1rem 0;
+}
+
+/*gallery primary*/
+/*section ul{
+    display: grid;
+    max-width: 100rem;
+    margin: 0 auto;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+    background-color: #fafafa;
+    padding: 1rem;
+    box-shadow: 0 0 2 rem var(--bgcolor_all);
+}
+
+section ul img{
+    width: 100%;
+    height: 30rem;
+
+}
+
+/* footer*/
+
+footer{
+    text-align: center;
+    line-height: 1rem;
+}
+
+/* media queris*/
+
+@media screen and (max-width: 80rem) {
+    ul primary-grid{
+        grid-template-columns: repeat(2,1rem);
+
+    }
+    header h1{
+        font-size: 1.6rem;
+        margin: 0;
+    }
+    
+}
+
+@media  screen and (orientation: landscape) {
+    ul primary-grid{
+        grid-template-columns: repeat(4,1rem);
+
+    }
+    header h1{
+        font-size: xx-large;
+        margin-bottom: 5rem;
+    }
+    
+}

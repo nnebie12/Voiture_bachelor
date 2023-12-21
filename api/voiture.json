@@ -1,96 +1,93 @@
-{
-    
-    "voiture": [
+[
         {
             "id_voiture" : "1",
             "marque" : "Ford",
-             "année" : "1959-1969",
+             "annee" : "1959-1969",
              "prix" : "1890",
-             "type" : "",
-             "etat" : "",
+             "type" : "Sport",
+             "etat" : "Ancien",
              "image": "./asset/ford.jpg",
              "label" : "voir l'article"
         },
         {
             "id_voiture" : "2",
-            "marque" : "Ford",
-             "année" : "1950",
+            "marque" : "Flat",
+             "annee" : "1950",
              "prix" : "1890",
-             "type" : "500",
-             "etat" : "",
-             "image": "./asset/1950-500",
+             "type" : "Utilitaire",
+             "etat" : "Ancien",
+             "image": "./asset/1950-500.jpg",
              "label" : "voir l'article"
         },
         {
             "id_voiture" : "3",
             "marque" : "Delorean",
-             "année" : "1959-1969",
+             "annee" : "1959-1969",
              "prix" : "1890",
-             "type" : "",
-             "etat" : "",
+             "type" : "Sport",
+             "etat" : "Ancien",
              "image": "./asset/delorean.jpg",
              "label" : "voir l'article"
         },
         {
             "id_voiture" : "4",
             "marque" : "Mercedes benz",
-             "année" : "1959-1969",
+             "annee" : "1959-1969",
              "prix" : "1890",
-             "type" : "",
-             "etat" : "",
+             "type" : "Utilitaire",
+             "etat" : "Ancien",
              "image": "./asset/code.png",
              "label" : "voir l'article"
         },
         {
             "id_voiture" : "5",
             "marque" : "Porsche",
-             "année" : "1959-1969",
+             "annee" : "1959-1969",
              "prix" : "1890",
-             "type" : "",
-             "etat" : "",
+             "type" : "Utilitaire",
+             "etat" : "Actualité",
              "image": "./asset/ajax-loader.gif",
              "label" : "voir l'article"
         },
         {
             "id_voiture" : "6",
             "marque" : "Jaguar",
-             "année" : "1959-1969",
+             "annee" : "1959-1969",
              "prix" : "1890",
-             "type" : "",
-             "etat" : "",
+             "type" : "Utilitaire",
+             "etat" : "Actualité",
              "image": "./asset/facebook.png",
              "label" : "voir l'article"
         },
         {
             "id_voiture" : "7",
             "marque" : "Citroen",
-             "année" : "1959-1969",
+             "annee" : "1959-1969",
              "prix" : "1890",
-             "type" : "",
-             "etat" : "",
-             "image": "./asset/instagram-Wordmark-Logo.wine.svg",
+             "type" : "Utilitaire",
+             "etat" : "Ancien",
+             "image": "./asset/Instagram-Wordmark-Logo.wine.svg",
              "label" : "voir l'article"
         },
         {
             "id_voiture" : "8",
             "marque" : "Peugeot",
-             "année" : "1959-1969",
+             "annee" : "1959-1969",
              "prix" : "1890",
-             "type" : "",
-             "etat" : "",
+             "type" : "Sport",
+             "etat" : "Ancien",
              "image": "./asset/twitter.png",
              "label" : "voir l'article"
         },
         {
             "id_voiture" : "9",
             "marque" : "Peugeot",
-             "année" : "1959-1969",
+             "annee" : "1959-1969",
              "prix" : "1890",
-             "type" : "",
-             "etat" : "",
+             "type" : "Sport",
+             "etat" : "Ancien",
              "image": "./asset/user.png",
              "label" : "voir l'article"
         }
         
-    ]
-}
+]
