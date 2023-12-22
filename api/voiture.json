@@ -6,8 +6,7 @@
              "prix" : "1890",
              "type" : "Sport",
              "etat" : "Ancien",
-             "image": "./asset/ford.jpg",
-             "label" : "voir l'article"
+             "image": "./asset/ford.jpg"
         },
         {
             "id_voiture" : "2",
@@ -16,8 +15,7 @@
              "prix" : "1890",
              "type" : "Utilitaire",
              "etat" : "Ancien",
-             "image": "./asset/1950-500.jpg",
-             "label" : "voir l'article"
+             "image": "./asset/1950-500.jpg"
         },
         {
             "id_voiture" : "3",
@@ -36,8 +34,7 @@
              "prix" : "1890",
              "type" : "Utilitaire",
              "etat" : "Ancien",
-             "image": "./asset/code.png",
-             "label" : "voir l'article"
+             "image": "./asset/code.jpeg"
         },
         {
             "id_voiture" : "5",
@@ -46,8 +43,7 @@
              "prix" : "1890",
              "type" : "Utilitaire",
              "etat" : "Actualité",
-             "image": "./asset/ajax-loader.gif",
-             "label" : "voir l'article"
+             "image": "./asset/ajax-loader.webp"
         },
         {
             "id_voiture" : "6",
@@ -56,8 +52,7 @@
              "prix" : "1890",
              "type" : "Utilitaire",
              "etat" : "Actualité",
-             "image": "./asset/facebook.png",
-             "label" : "voir l'article"
+             "image": "./asset/facebook.jpg"
         },
         {
             "id_voiture" : "7",
@@ -66,8 +61,7 @@
              "prix" : "1890",
              "type" : "Utilitaire",
              "etat" : "Ancien",
-             "image": "./asset/Instagram-Wordmark-Logo.wine.svg",
-             "label" : "voir l'article"
+             "image": "./asset/Instagram-Wordmark-Logo.wine.jpg"
         },
         {
             "id_voiture" : "8",
@@ -76,8 +70,7 @@
              "prix" : "1890",
              "type" : "Sport",
              "etat" : "Ancien",
-             "image": "./asset/twitter.png",
-             "label" : "voir l'article"
+             "image": "./asset/twitter.jpg"
         },
         {
             "id_voiture" : "9",
@@ -86,8 +79,7 @@
              "prix" : "1890",
              "type" : "Sport",
              "etat" : "Ancien",
-             "image": "./asset/user.png",
-             "label" : "voir l'article"
+             "image": "./asset/user.jpg"
         }
         
 ]

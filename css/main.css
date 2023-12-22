@@ -2,45 +2,60 @@
 
 /*theme*/
 :root{
-    --bgcolor_all : #2d3436;
-    --color-text-header: #fff;
+    --background-theme : #2d3436;
+    --background-list: #00b894;
+    --backgroun-list-even: #81ecec;
+    --color-text: #fff;
+    --background-level-two:#222;
+    --secchangebox: #99B2DD;
 }
 
-header{
-    line-height: 6.0rem;
+header h1{
+    line-height: 7.0rem;
     text-align: center;
-    color: var(--color-text-header);
-    background-color: var(--bgcolor_all);
-    margin-bottom: 5rem;
-    padding: 1rem 0;
+    background-color: var(--background-list);
+    color: var(--background-level-two);
+    font-family: 'Mia Nueva', sans-serif;
+    
 }
 
-/*gallery primary*/
-/*section ul{
-    display: grid;
+section{
     max-width: 100rem;
-    margin: 0 auto;
-    grid-template-columns: repeat(4,1fr);
-    gap: 1rem;
-    background-color: #fafafa;
-    padding: 1rem;
-    box-shadow: 0 0 2 rem var(--bgcolor_all);
+    margin: 5rem auto;
+
 }
 
-section ul img{
-    width: 100%;
-    height: 30rem;
+section h2{
+    background-color: var(--background-level-two);
+    color: var(--color-text);
+    text-align: center;
+    line-height: 6.4rem;
+}
 
+section ul{
+    line-height: 3.5rem;
+    background-color: var(--background-list);
+    color: var(--background-level-two);
+}
+
+section ul li{
+    padding: .5rem;
+}
+
+li{
+    padding: 1%;
+}
+ul  :nth-child(2n){
+    background-color: var(--secchangebox);
 }
 
 /* footer*/
 
 footer{
     text-align: center;
-    line-height: 1rem;
 }
 
-/* media queris*/
+/* media queris
 
 @media screen and (max-width: 80rem) {
     ul primary-grid{
@@ -64,4 +79,4 @@ footer{
         margin-bottom: 5rem;
     }
     
-}
+}*/

@@ -19,13 +19,13 @@ class controllerCar{
 
         for(let index of data){
             console.log(`${index.marque} ${index.annee}`)
-            addElement.innerHTML+= `<li>${index.marque} </li>
-                            <li>${index.annee}</li>
-                            <li>${index.prix}</li>
-                            <li>${index.type}</li>
-                            <li>${index.etat}</li>
+            addElement.innerHTML+= `<li>Marque: ${index.marque} </li>
+                            <li>Anne: ${index.annee}</li>
+                            <li>Prix: ${index.prix}</li>
+                            <li>Type: ${index.type}</li>
+                            <li>Etat: ${index.etat}</li>
                             <li><img src= "${index.image}" alt="${index.marque}"></li>
-                            <li>${index.label}</li>`
+                            `
         }
     }
 }

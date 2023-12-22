@@ -5,6 +5,8 @@ html{
     list-style-type: none;
 }
 body{
+    background-color: var(--background-theme);
+    color: var(--color-text);
     font: 1.6rem 'Roboto Slab',sans-serif; 
     margin: 0;
     letter-spacing: .1rem;
